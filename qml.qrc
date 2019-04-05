@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>menu.qml</file>
+        <file>states.qml</file>
     </qresource>
 </RCC>
